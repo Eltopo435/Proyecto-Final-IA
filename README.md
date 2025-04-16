@@ -1,4 +1,4 @@
-# 📚✨ StoryCraft - Generador de Historias Interactivas ✨📚
+# ✨ StoryCraft - Generador de Historias Interactivas 📚
 
 > _Proyecto Final de Inteligencia Artificial - Universidad OYM_
 
